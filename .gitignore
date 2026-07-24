@@ -1,2 +1,26 @@
+# Binários e artefatos de build
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+/bin/
+/dist/
+
+# Testes e cobertura
+*.test
+*.out
+coverage.*
+
+# Go workspace
+go.work
+go.work.sum
+
+# Editores / sistema
+.idea/
+.vscode/
+.DS_Store
+
+# Rascunhos locais
 ./main.go
 main.go
