@@ -2,8 +2,8 @@
 
 SDK oficial Go da plataforma [APIBrasil](https://apibrasil.com.br) — WhatsApp, SMS, consultas de CPF/CNPJ, veículos, CEP, correios, pagamentos PIX/boleto e muito mais.
 
-[![Go Reference](https://pkg.go.dev/badge/github.com/APIBrasil/apigratis-sdk-go.svg)](https://pkg.go.dev/github.com/APIBrasil/apigratis-sdk-go)
-[![Go Report Card](https://goreportcard.com/badge/github.com/APIBrasil/apigratis-sdk-go)](https://goreportcard.com/report/github.com/APIBrasil/apigratis-sdk-go)
+[![Go Reference](https://pkg.go.dev/badge/github.com/jhowbhz/apigratis-sdk-go.svg)](https://pkg.go.dev/github.com/jhowbhz/apigratis-sdk-go)
+[![Go Report Card](https://goreportcard.com/badge/github.com/jhowbhz/apigratis-sdk-go)](https://goreportcard.com/report/github.com/jhowbhz/apigratis-sdk-go)
 <a href="https://github.com/APIBrasil/apigratis-sdk-go/issues" target="_blank"><img alt="GitHub issues" src="https://img.shields.io/github/issues/APIBrasil/apigratis-sdk-go"></a>
 <a href="https://github.com/APIBrasil/apigratis-sdk-go/network" target="_blank"><img alt="GitHub forks" src="https://img.shields.io/github/forks/APIBrasil/apigratis-sdk-go"></a>
 <a href="https://github.com/APIBrasil/apigratis-sdk-go/stargazers" target="_blank"><img alt="GitHub stars" src="https://img.shields.io/github/stars/APIBrasil/apigratis-sdk-go"></a>
